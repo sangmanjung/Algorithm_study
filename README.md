@@ -5,7 +5,7 @@
 #### __Contents__
 
 - __[basic]__ [(click to go)](https://github.com/sangmanjung/Algorithm_study_with_Python/tree/main/basic)  
-  Learn and practice the basic algorithms and data structure
+  _Learn and practice the basic algorithms and data structure_
   
 
 __References__ 
