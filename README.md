@@ -5,7 +5,7 @@
 #### __Contents__
 
 - __[basic]__ [(click to go)](https://github.com/sangmanjung/Algorithm_study_with_Python/tree/main/basic)  
-  Learn and practice the basic algorithm and data structure
+  Learn and practice the basic algorithms and data structure
   
 - __[References]__ 
 > 1. 이것이 취업을 위한 코딩 테스트다 with 파이썬, 나동빈 저  
