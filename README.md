@@ -4,7 +4,7 @@
 
 #### __Contents__
 
-- __[basic]__ [(click to go)](https://github.com/sangmanjung/Algorithm_study_with_python/basic/)  
+- __[basic]__ [(click to go)](https://github.com/sangmanjung/Algorithm_study_with_Python/basic/)  
   Learn and practice the basic algorithm and data structure
   
 - __[References]__ 
