@@ -11,16 +11,16 @@ for i in range(N):
     sub_new = deque(list(map(str,sub_original)))
 
     for x in plan:
-        if x == sub_new[0]:
+        if x == sub_new[0]: # rotate
             sub_new.append(sub_new.popleft())
-        elif x == sub_new[0] and x == sub_new[-1]:
+        elif x == sub_new[0] and x == sub_new[-1]: # duplicated case
             continue
         else:
-            if x in list(sub_new):
+            if x in list(sub_new): # incorrect order
                 result = False
                 break
             else:
-                continue
+                continue # irrelevant subject
 
     sub_new = ''.join(map(str,sub_new))
 
