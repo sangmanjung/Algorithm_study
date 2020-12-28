@@ -23,7 +23,8 @@ for x in a2:
         d2[ord(x)-65] += 1 # index: 0 ~ 25
     else:
         d2[ord(x)-71] += 1 # index: 26 ~ end
-
+        
+# Note that if d1 == d2 is also possible.        
 for i in range(52):
     if d1[i] != d2[i]:
         print('NO')
