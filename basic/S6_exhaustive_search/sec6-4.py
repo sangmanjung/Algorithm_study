@@ -12,20 +12,20 @@ def DFS(v):
                 tmp2.append(elem[i-1])
         if sum(tmp1) == sum(tmp2):
             cnt += 1
-
     else:
         check[v] = 1
         DFS(v+1)
         check[v] = 0
         DFS(v+1)
-
     return cnt
 
 if __name__ == '__main__':
     N = int(input())
     elem = list(map(int,input().split()))
-    check = [0]*(N+1)
+    
     cnt = 0
+    check = [0]*(N+1)
+
     if DFS(1) != 0:
         print('YES')
     else:
