@@ -28,8 +28,6 @@ check[x] = 1 실행 후 바로 다음의 DFS(x+1)...(1) 실행
 
 '''
 
-
-
 if __name__ == '__main__':
     N = int(input())
     check = [0]*(N+1) # cases (1, 2, 3)
