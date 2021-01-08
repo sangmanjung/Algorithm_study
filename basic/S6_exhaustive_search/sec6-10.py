@@ -10,6 +10,11 @@ def DFS(v,s):
         print()
     else:
         for i in range(s,N+1):
+            '''
+            L : n choose k의 k
+            s : 중복 제거용
+            j : 가지 탐색용 (선택할 값)
+            '''
             result[v] = i
             DFS(v+1,i+1)
 
