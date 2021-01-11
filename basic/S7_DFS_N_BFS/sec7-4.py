@@ -3,6 +3,12 @@
 
 def DFS(l,s):
     global cnt
+    '''
+    it may possible that
+    
+    if s > T:
+        return
+    '''
     if l == k:
         if s == T:
             cnt += 1
@@ -19,7 +25,7 @@ def DFS(l,s):
         and there are cases: 5*0 or 5*1 or ... 5*3
         '''
         for i in range(coin_info[l][1]+1):
-            if s < T:
+            if s < T: # refer to line 7
                 DFS(l+1,s+coin_info[l][0]*i)
             else:
                 DFS(l+1,s)
