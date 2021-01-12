@@ -1,6 +1,11 @@
 #import sys
 #sys.stdin = open('input.txt','rt')
 
+'''
+문제 접근 -> DFS 문제인가? (yes) -> state-space tree 우선적으로 짤 것
+state-space tree : 이진트리? 가짓수? 레벨은? =>> 결정
+'''
+
 def DFS(level,A,B,C):
     global result
     if level == coin:
