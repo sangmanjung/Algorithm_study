@@ -33,7 +33,7 @@ if __name__ == '__main__':
     C = []
     Q = deque()
     for h in range(1,101):
-        new_M = copy.deepcopy(M)
+        new_M = copy.deepcopy(M) # 2-dim. list copy
         c = BFS(h,new_M)
         if c == 0:
             break
