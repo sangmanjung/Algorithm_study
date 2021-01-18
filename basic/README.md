@@ -12,7 +12,7 @@
 
   > backtracking, state-space tree,cut-edge, DFS
 - [S7_DFS_N_BFS](https://github.com/sangmanjung/Algorithm_study_with_Python/edit/main/basic/S7_DFS_N_BFS) : 17 problems
-- S8_dynamic_programming : 14 problems
+- [S8_dynamic_programming](https://github.com/sangmanjung/Algorithm_study_with_Python/tree/main/basic/S8_dynamic_programming) : 14 problems
 - S9_simulation_block_game : 1 problems
 
   > comprehensive work in this class
