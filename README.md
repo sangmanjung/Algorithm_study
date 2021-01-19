@@ -8,7 +8,7 @@
   _Learn and practice the basic algorithms and data structure_
   
 - __[intermediate]__  
-  _learn the advanced algorithms and solve the various type of problems_  
+  _Learn the advanced algorithms and solve the various type of problems_  
    
 __References__ 
 > 1. 이것이 취업을 위한 코딩 테스트다 with 파이썬, 나동빈 저  
