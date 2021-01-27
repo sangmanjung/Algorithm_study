@@ -7,7 +7,7 @@
 - __[basic]__ [(click to go)](https://github.com/sangmanjung/Algorithm_study_with_Python/tree/main/basic)  
   _Learn and practice the basic algorithms and data structure_
   
-- __[intermediate]__  
+- __[intermediate]__ [(click to go)](https://github.com/sangmanjung/Algorithm_study_with_Python/tree/main/intermediate)    
   _Learn the advanced algorithms and solve the various type of problems_  
    
 __References__ 
