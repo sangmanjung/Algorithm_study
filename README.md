@@ -1,4 +1,4 @@
-### Algorithm_study_with_Python
+### Algorithm_study
 
 #### Practice and solve the algorithm problem using python.
 
