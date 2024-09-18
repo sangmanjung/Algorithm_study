@@ -6,9 +6,6 @@
 
 - __[basic]__ [(click to go)](https://github.com/sangmanjung/Algorithm_study/tree/main/basic)  
   _Learn and practice the basic algorithms and data structure_
-  
-- __[intermediate]__ [(click to go)](https://github.com/sangmanjung/Algorithm_study/tree/main/intermediate)    
-  _Learn the advanced algorithms and solve the various type of problems_  
    
 __References__ 
 > 1. 이것이 취업을 위한 코딩 테스트다 with 파이썬, 나동빈 저  
